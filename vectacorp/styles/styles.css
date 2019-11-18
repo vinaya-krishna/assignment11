@@ -10,6 +10,12 @@
     width: 10px;
 }
 
+.solutions-data {
+     height: 255px; overflow-y: scroll 
+}
+/* .nav-item.active{
+    background-color: #000000;
+} */
 
 
 /* .solution-back{
